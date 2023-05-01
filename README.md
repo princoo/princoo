@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-🙋‍♂️Hi, I'm Prince,<br> A Full Stack Web Developer.<br> I specialize in both front-end and back-end development.<br> From creating UIs to designing robust APIs and integrating them with databases,<br> I have a broad range of skills and in the full stack development process. As a result, I am able to create end-to-end solutions that are functional and scalable.
+# 🙋‍♂️Hi, I'm Prince,:
+<br> A Full Stack Web Developer.<br> I specialize in both front-end and back-end development.<br> From creating UIs to designing robust APIs and integrating them with databases,<br> I have a broad range of skills and in the full stack development process. As a result, I am able to create end-to-end solutions that are functional and scalable.
 
 
 ## 🌐 Socials:
